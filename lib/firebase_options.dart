@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBkIFo465lc23zoBiKVfMD51EMv7pPYqLE',
-    appId: '1:27527501175:web:0ae954de0f79e5515cfd72',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '27527501175',
     projectId: 'auth-caa1a',
     authDomain: 'auth-caa1a.firebaseapp.com',
@@ -52,8 +52,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDzsAfsTO02OPJKZQ-I_AzCtUrH11HkRzg',
-    appId: '1:27527501175:android:e811cf0ef3ae2a025cfd72',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '27527501175',
     projectId: 'auth-caa1a',
     databaseURL: 'https://auth-caa1a-default-rtdb.firebaseio.com',
@@ -61,8 +61,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDgTAj9RGLCT1GofpZO9u7Uq_iNYUlVzuw',
-    appId: '1:27527501175:ios:bf92eae2cd950e2e5cfd72',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '27527501175',
     projectId: 'auth-caa1a',
     databaseURL: 'https://auth-caa1a-default-rtdb.firebaseio.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDgTAj9RGLCT1GofpZO9u7Uq_iNYUlVzuw',
-    appId: '1:27527501175:ios:bf92eae2cd950e2e5cfd72',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '27527501175',
     projectId: 'auth-caa1a',
     databaseURL: 'https://auth-caa1a-default-rtdb.firebaseio.com',
