@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "27527501175",
+    "firebase_url": "https://auth-caa1a-default-rtdb.firebaseio.com",
+    "project_id": "auth-caa1a",
+    "storage_bucket": "auth-caa1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27527501175:android:e811cf0ef3ae2a025cfd72",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzsAfsTO02OPJKZQ-I_AzCtUrH11HkRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
